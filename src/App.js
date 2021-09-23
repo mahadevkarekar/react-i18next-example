@@ -18,6 +18,7 @@ function App() {
         >
             <Trans i18nKey="learn_react">Learn React</Trans>
         </a>
+        <Trans i18nKey="veritas"></Trans>
       </header>
     </div>
   );
